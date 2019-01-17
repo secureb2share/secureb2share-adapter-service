@@ -1,0 +1,1 @@
+# secureb2share-adapter-service
